@@ -1,11 +1,3 @@
-- name: Developed and designed an Android app
-  link: github.com/romainernandez/SOMAH2
-  github: romainernandez/SOMAH2
-  quote: >
-    This is the project i realized during my European Project Semester in the Oslo and Akershus University College
-  description: | # this will include new lines to allow paragraphs
-    I worked on this project in collaboration with Norwegian nurses, having regular feedback on the project until delivered. The app aims to promote infant feeding to immigrant parents by displaying chosen content on a tablet during periodic meeting between parents and nurses.
-
 - name: Developed and designed a website using Django framework
   link: somah2.herokuapp.com
   github: romainernandez/somah2_website
@@ -13,3 +5,11 @@
     This is the project that i made to modify the content of the main app (see below)
   description: | # this will include new lines to allow paragraphs
     I started this project as a way if learning <mark>Django</mark> and it has since grown into a fully website, exposing a rest api on the backend and using bootstrap and jquery on the frontend.
+
+- name: Developed and designed an Android app
+  link: github.com/romainernandez/SOMAH2
+  github: romainernandez/SOMAH2
+  quote: >
+    This is the project i realized during my European Project Semester in the Oslo and Akershus University College
+  description: | # this will include new lines to allow paragraphs
+    I worked on this project in collaboration with Norwegian nurses, having regular feedback on the project until delivered. The app aims to promote infant feeding to immigrant parents by displaying chosen content on a tablet during periodic meeting between parents and nurses.
