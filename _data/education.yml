@@ -1,25 +1,25 @@
 - name: MIT Professional Certificate
   dates: October 2018 - December 2018
-  qualification: "Data Science and Big Data Analytics: Making Data-Driven Decisions"
+  qualification: Massachusetts Institute of Technology
+
   quote: >
 
   description: | # this will include new lines to allow paragraphs
-    Massachusetts Institute of Technology
-
+    "Data Science and Big Data Analytics: Making Data-Driven Decisions"
 
 - name: Engineering Degree
   dates: 2014 - 2017
-  qualification: Computer science and applications
+  qualification: ESIEE Paris
   quote: >
 
   description: | # this will include new lines to allow paragraphs
-    ESIEE Paris
+    Computer science and applications
 
 - name: Bachelor's in Computer Science
   dates: 2013 - 2014
-  qualification: Computer science
+  qualification: IUT of Orléans
   quote: >
-    
+
   description: | # this will include new lines to allow paragraphs
-    IUT of Orléans
+    Computer science
 
