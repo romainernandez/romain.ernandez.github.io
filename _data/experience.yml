@@ -18,8 +18,21 @@
   job_title: Software engineer apprentice
   dates: September 2014 - September 2017
   quote: >
-    “ end-to-end iptv solution”
+    My apprenticeship at Cisco during 3 years has been a rich first experience, working in an international context in colabration with Indian, Israel and US teams.
   description: | # this will include new lines to allow paragraphs
+    Within an integration scrum team, i hava been working on:
+    - developping monitoring tools in Django using ElectrcFlow, Morris.js, SQL, ELK Stack
+    - developping an integrating web templates for a prototype set-top-box showed at the IBC Amsterdam (Netherlands)
+    - making scripts, web and desktop internal tools using Python, Pyqt5 and Android
+
+ company: Cisco
+  link: cisco.com/
+  job_title: Software engineer apprentice
+  dates: June 2016 - July 2016
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    During two months i have been working and supporting local teams in Bangalore (India) on a cloud application writen in Node.js and Pytest.
 
 
 - company: CRESITT
