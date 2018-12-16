@@ -24,7 +24,7 @@ linkedin_username: romainernandez
 # about_title: About Me
 about_profile_image: images/avataaars.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Romain and I'm a software engineer. As well as web apps development I also have experience making desktop ui and web sites.
+  Hi, my name is Romain and I'm a software engineer. I have experience in web application development as well as creating desktop ui and web sites.
 
   I am most skilled in: <mark>Python</mark> and <mark>Django</mark>
 
@@ -44,7 +44,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Hiking
    - Running
    - Reading
-  - Traveling
+   - Traveling
 
 # Footer
 footer_show_references: true
