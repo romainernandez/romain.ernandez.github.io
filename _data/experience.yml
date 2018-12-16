@@ -25,12 +25,12 @@
     - developping an integrating web templates for a prototype set-top-box showed at the IBC Amsterdam (Netherlands)
     - making scripts, web and desktop internal tools using Python, Pyqt5 and Android
 
- company: Cisco
+- company: Cisco
   link: cisco.com/
   job_title: Software engineer apprentice
   dates: June 2016 - July 2016
   quote: >
-    
+
   description: | # this will include new lines to allow paragraphs
     During two months i have been working and supporting local teams in Bangalore (India) on a cloud application writen in Node.js and Pytest.
 
