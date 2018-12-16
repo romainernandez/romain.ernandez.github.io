@@ -4,7 +4,7 @@
   quote: >
     This is the project that i made to modify the content of the main app (see below)
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way of learning <mark>Django</mark> and it has since grown into a fully website, exposing a rest api on the backend and using bootstrap and jquery on the frontend.
+    I started this project on my free time as a way of learning <mark>Django</mark> and it has since grown into a fully website, exposing a rest api on the backend and using bootstrap and jquery on the frontend.
 
 - name: Developed and designed an Android app
   link: github.com/romainernandez/SOMAH2
