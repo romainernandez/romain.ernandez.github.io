@@ -11,14 +11,14 @@
       - Developing and integrating micro-services written in Django, using technologies like Celery, Redis, RabbitMQ, SQL, etc.
       - Deploying and monitoring these applications with Docker, Fabric, Grafana and Prometheus.
       - Developing and integrating Wordpress features (plugins) written in PHP.
-      - Working on frontend tasks that involve frameworks and libraries like Django, Bootstrap, Chart.js and React.
+      - Working on frontend tasks that involve language, frameworks and libraries like Javascript, Django, Bootstrap, Chart.js and React.
 
 - company: Cisco (France)
   link: cisco.com/
   job_title: Software engineer apprentice
   dates: September 2014 - September 2017
   quote: >
-    My apprenticeship at Cisco for 3 years was a rich first experience, working in an international context in collaboration with Indian, Israelian and US teams.
+    My apprenticeship at Cisco for 3 years was a rich first experience, working in an international context in collaboration with Indian, Israeli and US teams.
   description: | # this will include new lines to allow paragraphs
     Within an integration SCRUM team, I worked on:
     - Developing monitoring tools in Django using ElectricFlow, Morris.js, SQL, and the ELK Stack.
