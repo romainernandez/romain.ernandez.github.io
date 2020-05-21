@@ -1,7 +1,22 @@
+- company: Adverity
+  link: adverity.com/
+  job_title: Python engineer
+  dates: April 2019 - Present
+  quote: >
+    “With a wide range of out-of-the-box and custom connectors, 
+    Adverity collects and processes data from all relevant sources.”
+  description: | # this will include new lines to allow paragraphs
+    Within a backend engineer team, we develop and maintain an ETL platform for marketing agencies and eCommerce business.
+    My tasks involve:
+      - Implementing efficient big data algorithms in Python
+      - Developing and maintaining a Django Monolithic app using technologies like Celery, Pytest, PostgreSQL, etc.
+      - Designing and maintaining an internal REST api
+      - Working on frontend tasks that involve Javascript, Django and React.
+
 - company: yelster digital gmbh
   link: yelsterdigital.com/
   job_title: Junior software engineer
-  dates: October 2017 - March 2018
+  dates: October 2017 - March 2019
   quote: >
     “Our job is not about programming.
     It’s about connecting the shop around the corner with the people from the street.”
